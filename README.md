@@ -1,4 +1,3 @@
-**
 # Homelab
 This is set up to be a simple demonstration of how I have my home lab configured for home security, malware analysis and personal technical growth.
 
@@ -61,4 +60,3 @@ sudo apt install -y krdc
 This will be the attack box that we use for various projects
 
 https://www.kali.org/
-**
